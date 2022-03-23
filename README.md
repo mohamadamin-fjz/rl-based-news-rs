@@ -6,38 +6,17 @@
 
 ## Table of Content
 - [General Info](#general-info)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
-- [Status](#status)
+- [Screenshots](#screenshots)
+- [About Us](#about-us)
 - [Acknowledgement](#acknowledgement)
 
 ## General Info
-### Who We Are?
-We are RecBrain, four data science enthusiasts:
-+ [Hanieh Mahdavi](https://github.com/haniehm26)
-+ [Mohammadamin Farajzadeh](https://github.com/mafzs)
-+ [Mahta Zarean](https://github.com/mahtaz)
-+ [Amir Asrzad](https://github.com/AMIRASRZAD)
-
-Gather together in [Rahnema College](https://rahnemacollege.com/) Machine Learning Internship Program with mentorship of [Matin Zivdar](https://github.com/zivdar001matin).
-
-### What Is Our Project About?
 We implemented a News Recommender System with an Online Reinforcement Learning approach, based on [MIND](https://www.microsoft.com/en-us/research/publication/mind-a-large-scale-dataset-for-news-recommendation/) dataset.
 Our first challenge was how to extract information from news texts and categories that represent precisely the data.
 Second challenge was how to formulate problem in a RL literature. Finally, we had to figure out how to train the model in offline manner.
-
-## Screenshots
-<p align="center">
-    <img src="images/front.png" width="80%" height="100%">
-  <h4 align="center">Project Front-End Sample</h4>
-  </p>
-  <br>
-<p align="center">
-    <img src="images/mlflow-metrics.png" width="80%" height="100%">
-  <h4 align="center">Reward Cumulative Sum Metric Chart</h4>
-  </p>
 
 ## Technologies
 + python = 3.9
@@ -58,8 +37,26 @@ blah blah blah
 + Developed a very straightforward back-end using FastAPI
 + Wrote a Dockerfile and dockerized the whole project
 
-## Status
-blah blah blah
+## Screenshots
+<p align="center">
+    <img src="images/front.png" width="80%" height="100%">
+  <h4 align="center">Project Front-End Sample</h4>
+  </p>
+  <br>
+<p align="center">
+    <img src="images/mlflow-metrics.png" width="80%" height="100%">
+  <h4 align="center">Reward Cumulative Sum Metric Chart</h4>
+  </p>
+  
+## About Us
+We are RecBrain, four data science enthusiasts:
++ [Hanieh Mahdavi](https://github.com/haniehm26)
++ [Mohammadamin Farajzadeh](https://github.com/mafzs)
++ [Mahta Zarean](https://github.com/mahtaz)
++ [Amir Asrzad](https://github.com/AMIRASRZAD)
+
+Gather together in [Rahnema College](https://rahnemacollege.com/) Machine Learning Internship Program with mentorship of [Matin Zivdar](https://github.com/zivdar001matin).
 
 ## Acknowledgement
-Many thanks [Matin Zivdar](https://github.com/zivdar001matin) for his really useful guidance and mentorship,[Rahnema College](https://rahnemacollege.com/) for their really fantastic internship prgram and everyone who helps us through this project .
+Special thanks to [Matin Zivdar](https://github.com/zivdar001matin) for his sincerely guidance and mentorship.<br>
+Many thanks to [Rahnema College](https://rahnemacollege.com/) for their fantastic internship program, and everyone else who helped us through this project.
